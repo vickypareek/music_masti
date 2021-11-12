@@ -1,8 +1,8 @@
 <h1 align="center">music_masti12</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [XmartSalim](https://t.me/xmartperson)
-### Available on telegram as [@xmarty_music_robot](https://te.legra.ph/file/7c23a35e3174aeb112663.jpg)
+#### POWERED BY [@B_O_L_L_E_N_A_T_H_A](https://t.me/music_masti1)
+### Available on telegram as [@music_masti1](https://te.legra.ph/file/7c23a35e3174aeb112663.jpg)
 
 <p align="center">
   <img src="https://te.legra.ph/file/7c23a35e3174aeb112663.jpg
