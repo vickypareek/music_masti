@@ -1,11 +1,11 @@
-<h1 align="center">Xmarty_Music_2</h1>
+<h1 align="center">music_masti12</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [XmartSalim](https://t.me/xmartperson)
-### Available on telegram as [@xmarty_music_robot](https://t.me/xmarty_music_robot)
+### Available on telegram as [@xmarty_music_robot](https://te.legra.ph/file/7c23a35e3174aeb112663.jpg)
 
 <p align="center">
-  <img src="https://telegra.ph/file/3aa55e7efe0fabf05da4e.jpg">
+  <img src="https://te.legra.ph/file/7c23a35e3174aeb112663.jpg
 </p>
 
 <h2> Features 🔥 </h2>
@@ -26,22 +26,22 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/S780821/Xmarty_Music_2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vickypareek/music_masti1)
 
 Get pyrogram (p)  `SESSION` from here:
 
-[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@S780821/PyrogramSession)
+[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@@B_O_L_L_E_N_A_T_H_A/PyrogramSession)
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-get install git)
-$ git clone https://github.com/S780821/Xmarty_Music_2
-$ cd XmartyMusic
+$ git clone https://github.com/vickypareek/music_masti1
+$ cd music_masti1
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -U -r requirements.txt
 # Fork This Repo and fill config.py vars with your own values.Then Start The Bot
-$ python3 -m XmartyMusic
+$ python3 -m music_masti1
 ```
 
 ### Commands for Group 🛠
