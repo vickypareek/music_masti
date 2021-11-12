@@ -2,7 +2,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [@B_O_L_L_E_N_A_T_H_A](https://t.me/music_masti1)
-### Available on telegram as [@music_masti1](https://te.legra.ph/file/7c23a35e3174aeb112663.jpg)
+### Available on telegram as [@music_masti1]()
 
 <p align="center">
   <img src="https://te.legra.ph/file/7c23a35e3174aeb112663.jpg
